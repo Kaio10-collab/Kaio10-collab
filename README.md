@@ -1,4 +1,4 @@
-# Hi, my name is Kaio Sanches 🤓
+# Hi, my name is Kaio Sanches
 ### Future backend programmer at Zup Innovation 💻;
 ### Studing programmer at Zup Innovation 💻; 
 ### Passionate about challenges;
