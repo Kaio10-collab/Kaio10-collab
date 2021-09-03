@@ -1,8 +1,9 @@
-# Hi, my name is Kaio Sanches
-### Future backend programmer na Zup Innovation;
+# Hi, my name is Kaio Sanches 🤓
+### Future backend programmer at Zup Innovation 💻;
+### Studing programmer at Zup Innovation 💻; 
 ### Passionate about challenges;
-### Gamer with pride;
-### Nerd;
+### 🎮 Gamer with pride 🎮;
+### 🤖 Nerd 🤖;
 
 <div>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kaio10-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
