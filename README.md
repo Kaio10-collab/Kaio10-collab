@@ -1,4 +1,4 @@
-# Hi, I`m Dev. Backend JR.
+# Hi, I'm Dev. Backend JR.
 ### Future backend programmer  💻;
 ### Studing programmer  💻; 
 ### Passionate about challenges;
