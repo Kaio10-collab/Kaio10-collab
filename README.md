@@ -22,8 +22,3 @@ Estas são algumas das tecnologias e ferramentas com as quais eu trabalho ou est
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaio10-collab&show_icons=true&theme=dark)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio10-collab&layout=compact&theme=dark)
